@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //set the layout
         setContentView(R.layout.activity_main);
 
         mRegistrationProgressBar = (ProgressBar) findViewById(R.id.registrationProgressBar);
