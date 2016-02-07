@@ -24,9 +24,5 @@ Getting Started
   device.
 
 
-Screenshots
------------
-![Screenshot](app/src/main/gcm-sample.png)
-
 
 
